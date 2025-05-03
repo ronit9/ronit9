@@ -17,6 +17,7 @@
 <a href="https://linkedin.com/in/ronit darji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronit darji" height="30" width="40" /></a>
 <a href="https://instagram.com/ronit_darji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronit_darji" height="30" width="40" /></a>
 </p>
+<br>
 <img align="right" height="250" src="https://www.gabrielcorralcardenas.com/content/images/size/w2000/2024/03/web3.gif"  />
 
 
